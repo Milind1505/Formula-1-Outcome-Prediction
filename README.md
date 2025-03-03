@@ -125,5 +125,6 @@ Special thanks to FastF1, Kaggle, and OpenAI for providing valuable insights & d
 🔗 Connect With Me
 
 📧 Email: milind.bage@warwick.ac.uk/milind.gottlieb155@gmail.com
+
 📷 LinkedIn: https://www.linkedin.com/in/milind-bage-652b67179/
 
